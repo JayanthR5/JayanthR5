@@ -83,16 +83,7 @@ IoT-based Fuel Monitoring System
 ### 🌐 Portfolio Website
 Built using Next.js + Tailwind CSS
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JayanthR5&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayanthR5&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
----
 
 ## 🤝 Connect With Me
 
