@@ -6,7 +6,7 @@ Software Developer | AI & ML Student | Full Stack Developer
 
 <p align="center">
 🎓 B.E. in Computer Science (AI & ML) <br>
-🚀 Sevred Vice President - IEEE Computational Intelligence Society <br>
+🚀 Served Vice President - IEEE Computational Intelligence Society <br>
 💡 Passionate about building AI-powered, scalable, and user-centric applications.
 </p>
 
