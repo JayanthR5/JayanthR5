@@ -5,9 +5,9 @@ Software Developer | AI & ML Student | Full Stack Developer
 </h3>
 
 <p align="center">
-🎓 B.E. Computer Science (AI & ML) <br>
-Vice President - IEEE Computational Intelligence Society <br>
-Passionate about building AI-powered and scalable web applications.
+🎓 B.E. in Computer Science (AI & ML) <br>
+🚀 Vice President - IEEE Computational Intelligence Society <br>
+💡 Passionate about building AI-powered, scalable, and user-centric applications.
 </p>
 
 ---
@@ -15,97 +15,97 @@ Passionate about building AI-powered and scalable web applications.
 ## 🚀 About Me
 
 - 💻 Full Stack Developer
-- 🤖 Interested in AI & Machine Learning
-- 🌱 Currently learning System Design & DSA
-- ⚡ Love building products that solve real-world problems
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 🌱 Currently learning System Design & Data Structures & Algorithms
+- ⚡ Passionate about building impactful software products
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
+### 💻 Languages
 
-Python • Java • C++ • JavaScript • SQL
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,sql" />
+</p>
 
-### Frontend
+### 🎨 Frontend
 
-React.js
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+</p>
 
-Next.js
+### ⚙️ Backend
 
-TypeScript
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django" />
+</p>
 
-HTML
+### 🗄️ Databases
 
-CSS
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
 
-Tailwind CSS
+### 🤖 AI / Machine Learning
 
-### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+</p>
 
-Node.js
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge"/>
+</p>
 
-Express.js
+### ☁️ Cloud & Tools
 
-FastAPI
-
-Django REST
-
-### Database
-
-MongoDB
-
-PostgreSQL
-
-MySQL
-
-### AI / ML
-
-TensorFlow
-
-Scikit-Learn
-
-OpenCV
-
-YOLO
-
-### Tools
-
-Git
-
-GitHub
-
-Postman
-
-Figma
-
-VS Code
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,aws,gcp" />
+</p>
 
 ---
 
 ## ⭐ Featured Projects
 
-🌾 AgriRam
+### 🌾 AgriRam
 AI-powered Smart Agriculture Platform
 
-📦 Inventory Management System
+### 📦 Inventory Management System
 Full Stack Inventory Tracking Application
 
-😊 Face Emotion Detection
+### 😊 Face Emotion Detection
 Deep Learning based Emotion Recognition
 
-🚗 Digital Fuel Indicator
+### 🚗 Digital Fuel Indicator System
 IoT-based Fuel Monitoring System
 
-🌐 Portfolio Website
+### 🌐 Portfolio Website
 Built using Next.js + Tailwind CSS
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Stats
 
-LinkedIn: (Add your LinkedIn)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JayanthR5&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayanthR5&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
-Portfolio: (Add your portfolio)
+---
 
-Email: (Add your email)
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/jayanth-r-%E0%B2%97%E0%B3%8C%E0%B2%A1-914765298/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://fortfolio-ashen.vercel.app" target="_blank">
+<img src="https://skillicons.dev/icons?i=vercel" height="40"/>
+</a>
+
+<a href="mailto:jayanthram2528@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+</p>
